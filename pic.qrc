@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>blue_line.png</file>
+        <file>blue_ori.png</file>
+        <file>blue_shoot.png</file>
+        <file>blue_star.png</file>
+        <file>gre_line.png</file>
+        <file>green_ori.png</file>
+        <file>green_shoot.png</file>
+        <file>green_star.png</file>
+        <file>pur_line.png</file>
+        <file>pur_ori.png</file>
+        <file>pur_shoot.png</file>
+        <file>pur_star.png</file>
+        <file>red_line.png</file>
+        <file>red_ori.png</file>
+        <file>red_shoot.png</file>
+        <file>red_star.png</file>
+        <file>bumb.png</file>
+        <file>blue_line-1.png</file>
+        <file>blue_ori-1.png</file>
+        <file>blue_shoot-1.png</file>
+        <file>blue_star-1.png</file>
+        <file>bumb-1.png</file>
+        <file>gre_line-1.png</file>
+        <file>green_ori-1.png</file>
+        <file>green_shoot-1.png</file>
+        <file>green_star-1.png</file>
+        <file>pur_line-1.png</file>
+        <file>pur_ori-1.png</file>
+        <file>pur_star-1.png</file>
+        <file>red_line-1.png</file>
+        <file>red_ori-1.png</file>
+        <file>red_shoot-1.png</file>
+        <file>red_star-1.png</file>
+        <file>pur_shoot-1.png</file>
+        <file>sky.jpg</file>
+        <file>win.png</file>
+    </qresource>
+</RCC>
